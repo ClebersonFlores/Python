@@ -1,1 +1,1 @@
-# Python Beginner Level Exercises
+# Python Beginner Level Projects
