@@ -1,1 +1,1 @@
-# Python Beginner Level Projects
+# Python Projects from my courses in EN/US, PT/BR
